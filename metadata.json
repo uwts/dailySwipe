@@ -1,0 +1,5 @@
+{
+  "name": "Daily Swipe Trivia",
+  "description": "A fun, mobile-friendly trivia game where you guess if statistics are higher or lower than reality by swiping.",
+  "requestFramePermissions": []
+}
